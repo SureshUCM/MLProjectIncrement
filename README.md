@@ -10,7 +10,9 @@ https://drive.google.com/drive/folders/1kGNfB-Uq-0o4MihIaK8Mtn7C1Fm0RJvZ?usp=sha
 
 Project tile: Sepsis Prediction Using Machine Learning
 
-Team: 1. Suresh Kumar Batchu, 700747326 
+Team Involved in this Project Work:
+
+1. Suresh Kumar Batchu, 700747326 
 
 2. Manohar Ronanki, 700743624
    
